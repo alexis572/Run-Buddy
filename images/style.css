@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    border-radius: 10px;
+}
+.A1{
+    color: red;
+}
+.A2{
+    color: blue;
+}
+.A3{
+    color: green;
+}
+.Big{
+    font-size: large;
+    font-weight: bold;
+}
+.Tiny{
+    font-size: small;
+}
+.middle{
+    text-align: center;
+}
+.dark{
+    font-weight: bold;
+}
+.write{
+    font-style: italic;
+}
+.many{
+    font-weight: bolder;
+    font-style: italic;
+    font-weight: 500px;
+    color: orange;
+}
+.Alot{
+    color: green;
+}
+#image{
+    border-width: 50px;
+    border-image-outset: 50px;
+}
